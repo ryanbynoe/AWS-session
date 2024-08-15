@@ -4,7 +4,7 @@
 
 1. Clone this project
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/ryanbynoe/AWS-session.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
@@ -48,7 +48,7 @@ sudo apt update
 
 1. Clone this project in the remote VM
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+git clone https://github.com/ryanbynoe/AWS-session.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
@@ -70,3 +70,7 @@ npm run start
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
 
 ### Project is deployed on AWS 🎉
+![app](/assets/app.png)
+![instance](/assets/instance.png)
+![instance2](/assets/instance2.png)
+![ubuntu](/assets/ubuntu.png)
